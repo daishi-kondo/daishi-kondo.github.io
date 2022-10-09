@@ -17,6 +17,7 @@ organizations:
   - name: Osaka Metropolitan University
     url: https://www.omu.ac.jp/en/
   - name: Intelligent Networking Research Group
+    url: https://tode-lab.github.io
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.

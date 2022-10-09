@@ -36,19 +36,19 @@ design:
   columns: '2'
 ---
 ### <u>International Journal Papers</u>
-* K. Isobe, **D. Kondo**, and H. Tode, ''Privacy Concerns from Single-Word Search Query Leakage from Web Browsers through DNS,'' *IEEE Networking Letters*, vol. 4, no. 1, pp. 48–52, Mar. 2022.
+* K. Isobe, **D. Kondo**, and H. Tode, ''Privacy Concerns from Single-Word Search Query Leakage from Web Browsers through DNS,'' *IEEE Networking Letters*, vol. 4, no. 1, pp. 48-52, Mar. 2022.
 <br><br>
 
-* N. Ishikura, **D. Kondo**, V. Vassiliades, I. Iordanov, and H. Tode, ''DNS Tunneling Detection by Cache-Property-Aware Features,'' *IEEE TNSM*, vol. 18, no. 2, pp. 1203–1217, Jun. 2021.
+* N. Ishikura, **D. Kondo**, V. Vassiliades, I. Iordanov, and H. Tode, ''DNS Tunneling Detection by Cache-Property-Aware Features,'' *IEEE TNSM*, vol. 18, no. 2, pp. 1203-1217, Jun. 2021.
 <br><br>
 
 * **D. Kondo**, V. Vassiliades, T. Silverston, H. Tode, and T. Asami, ''The Named Data Networking Flow Filter: Towards Improved Security over Information Leakage Attacks,'' *Computer Networks*, vol. 173, May 2020.
 <br><br>
 
-* G. Doyen, T. Cholez, W. Mallouli, B. Mathieu, H. L. Mai, X. Marchal, **D. Kondo**, M. Aouadj, A. Ploix, E. M. de Oca, and O. Festor, ''An Orchestrated NDN Virtual Infrastructure Transporting Web Traffic: Design, Implementation and First Experiments with Real End-Users,'' *IEEE Communications Magazine*, vol. 57, no. 6, pp. 33–39, Jun. 2019.
+* G. Doyen, T. Cholez, W. Mallouli, B. Mathieu, H. L. Mai, X. Marchal, **D. Kondo**, M. Aouadj, A. Ploix, E. M. de Oca, and O. Festor, ''An Orchestrated NDN Virtual Infrastructure Transporting Web Traffic: Design, Implementation and First Experiments with Real End-Users,'' *IEEE Communications Magazine*, vol. 57, no. 6, pp. 33-39, Jun. 2019.
 <br><br>
 
-* **D. Kondo**, T. Silverston, V. Vassiliades, H. Tode, and T. Asami, ''Name Filter: A Countermeasure against Information Leakage Attacks in Named Data Networking,'' *IEEE Access*, vol. 6, pp. 65151–65170, Oct. 2018.
+* **D. Kondo**, T. Silverston, V. Vassiliades, H. Tode, and T. Asami, ''Name Filter: A Countermeasure against Information Leakage Attacks in Named Data Networking,'' *IEEE Access*, vol. 6, pp. 65151-65170, Oct. 2018.
 
 ### <u>International Conference Papers</u>
 * T. Ueda, **D. Kondo**, Y. Tanigawa, and H. Tode, ''Computing Node Selection Method Based on Proactive Grasping of Computational Performance in End Cloud Environments,'' in *IEEE CCNC* 2023.
@@ -90,7 +90,7 @@ design:
 * **D. Kondo**, A. Fujimoto, Y. Hirota, H. Tode, and K. Murakami, ''P2P Live Streaming Distribution System with Fast Content Switching and Category-Based Recommendation Function,'' in *3PGCIC Workshop (SMDMS)* 2012.
 
 ### <u>解説</u>
-* 浅見徹, 栗原淳, **近藤大嗣**, 戸出英樹, ''多様なビジネスの収容基盤としてのネットワークとその課題―著作権保護や消費税徴収等に関わる技術的・法的課題―,'' 電子情報通信学会誌, vol. 103, no. 2, pp. 155-161, 2月 2020年
+* 浅見徹, 栗原淳, **近藤大嗣**, 戸出英樹, ''多様なビジネスの収容基盤としてのネットワークとその課題--著作権保護や消費税徴収等に関わる技術的・法的課題--,'' 電子情報通信学会誌, vol. 103, no. 2, pp. 155-161, 2月 2020年
 
 ### <u>国内会議</u>
 * 澁谷遊野, **近藤大嗣**, 山口利恵, 中田登志之, 浅見徹, ''日本国内におけるメールセキュリティに関する実態把握,'' コンピュータセキュリティシンポジウム, 2022年

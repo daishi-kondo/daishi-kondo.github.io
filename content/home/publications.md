@@ -36,6 +36,9 @@ design:
   columns: '2'
 ---
 ### <u>International Journal Papers</u>
+* K. Hasegawa, **D. Kondo**, M. Osumi, and H. Tode, ''Collaborative Defense Framework Using FQDN-Based Allowlist Filter Against DNS Water Torture Attack,'' *IEEE TNSM* (Accepted).
+<br><br>
+
 * K. Isobe, **D. Kondo**, and H. Tode, ''Privacy Concerns from Single-Word Search Query Leakage from Web Browsers through DNS,'' *IEEE Networking Letters*, vol. 4, no. 1, pp. 48-52, Mar. 2022.
 <br><br>
 

@@ -53,6 +53,9 @@ design:
 
 * **D. Kondo**, T. Silverston, V. Vassiliades, H. Tode, and T. Asami, ''Name Filter: A Countermeasure against Information Leakage Attacks in Named Data Networking,'' *IEEE Access*, vol. 6, pp. 65151-65170, Oct. 2018.
 
+### <u>国内ジャーナル</u>
+* **近藤大嗣**, 澁谷遊野, 山口利恵, 中田登志之, 浅見徹, ''日本国内におけるメールセキュリティに関する実態把握,'' 情報処理学会論文誌（推薦論文）, 2023年（採録）
+
 ### <u>International Conference Papers</u>
 * T. Ueda, **D. Kondo**, Y. Tanigawa, and H. Tode, ''Computing Node Selection Method Based on Proactive Grasping of Computational Performance in End Cloud Environments,'' in *IEEE CCNC* 2023.
 <br><br>

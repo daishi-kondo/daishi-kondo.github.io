@@ -11,7 +11,7 @@ weight: 40
 title: Projects
 subtitle: ''
 ---
-- Alleviation of Generalization Problems in AI-based Cyber-Deception and Network Anomaly Detection (CyberGenAI)
+- [Alleviation of Generalization Problems in AI-based Cyber-Deception and Network Anomaly Detection (CyberGenAI)](https://team.inria.fr/resist/cybergenai-associate-team/)
   - Teams: Inria, DFKI, and Osaka Metropolitan University (PI)
   - Project period: FY2022 - FY2024
 - [無線リソースの仮想化・動的管理及び遅延保証技術](https://www.soumu.go.jp/main_content/000755166.pdf)

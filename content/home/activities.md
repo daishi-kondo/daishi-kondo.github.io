@@ -12,9 +12,10 @@ title: Professional Activities
 subtitle: ''
 ---
 - Program Committee Member
-	- IEEE MSN 2022
-	- IEEE MSN 2021
-	- IEEE MSN 2020
+	- IEEE ICC 2024
+	- MSN 2022
+	- MSN 2021
+	- MSN 2020
 	- IEEE/IFIP DISSECT 2020
 - 専門委員会
 	- 通信ソサイエティ情報指向ネットワーク技術特別研究専門委員会（専門委員：2021-4-1 - 2023-3-31，幹事：2023-4-1 - 2025-3-31）
@@ -22,9 +23,10 @@ subtitle: ''
 	- Journal
 		- Computer Communications
 		- IEEE Access
-		- IEEE TNSM
+		- IEEE Transactions on Network and Service Management
 		- IEICE
 	- Conference
 		- IEEE Globecom
 		- IEEE ICC
 		- IFIP Networking
+		- IEEE ICCE

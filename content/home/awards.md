@@ -11,8 +11,9 @@ weight: 30
 title: Awards
 subtitle: ''
 ---
-- CSS2022優秀論文賞 (2022)
-- ITU AI/ML in 5G Challenge (Regional round), Judges’ prize (2020)
-- ITU AI/ML in 5G Challenge, 日本ラウンド, 第2位（2020）
-- ITU AI/ML in 5G Challenge, Global Round in Japan, Best Performance Award (NEC) (2020)
-- ネットワークシステム研究会若手研究奨励賞（2017年度）
+- 11/15/2023 特選論文（情報処理学会）
+- 10/24/2022 CSS2022優秀論文賞（コンピュータセキュリティシンポジウム2022）
+- 12/17/2020 ITU AI/ML in 5G Challenge (Regional round), Judges' Prize (ITU)
+- 12/14/2020 ITU AI/ML in 5G Challenge, 日本ラウンド, 第2位（情報通信技術委員会）
+- 11/11/2020 ITU AI/ML in 5G Challenge, Global Round in Japan, Best Performance Award (NEC)（RISING研究会）
+- 1/18/2018 若手研究奨励賞（電子情報通信学会ネットワークシステム研究会）

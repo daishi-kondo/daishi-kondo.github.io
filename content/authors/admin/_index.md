@@ -26,6 +26,7 @@ organizations:
 interests:
   - Network security
   - Privacy
+  - Traffic measurement
   - Information-Centric Networking (ICN)
   - Peer-to-Peer (P2P) networking
 

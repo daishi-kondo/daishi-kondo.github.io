@@ -99,6 +99,24 @@ design:
 * **D. Kondo**, A. Fujimoto, Y. Hirota, H. Tode, and K. Murakami, ''P2P Live Streaming Distribution System with Fast Content Switching and Category-Based Recommendation Function,'' in *Proc. 2012 Seventh International Conference on P2P, Parallel, Grid, Cloud and Internet Computing*, pp. 345--350, 2012.
 
 ### <u>国内会議</u>
+* 山内 大輝, **近藤 大嗣**, 戸出 英樹, ''エッジ環境におけるロードバランシングアルゴリズムの検討,'' 電子情報通信学会総合大会, B-6-70, 2024年3月.
+<br><br>
+
+* 浅田 竜征, 谷川 陽祐, **近藤 大嗣**, 戸出 英樹, ''モバイルアドホック網環境におけるノードの移動を考慮した情報取得法の検討,'' 電子情報通信学会総合大会, B-6-80, 2024年3月.
+<br><br>
+
+* 磯部 克貴, **近藤 大嗣**, 戸出 英樹, ''ブロックチェーンを用いたDNSとしてのHandshakeの包括的な調査,'' 信学技報, vol. 123, no. 397, NS2023-199, pp. 160--165, 2024年2月.
+<br><br>
+
+* 植田 達也, **近藤 大嗣**, 谷川 陽祐, 戸出 英樹, ''エンドクラウド環境におけるセンシングデータ解析のためのコンピューティングノード選択法,'' 信学技報, vol. 123, no. 397, NS2023-214, pp. 246--252, 2024年2月.
+<br><br>
+
+* 大隅 雅斗, **近藤 大嗣**, 戸出 英樹, ''5G MEC環境に展開された遠隔型自動運転システムを対象とするDDoS攻撃評価,'' 信学技報, vol. 123, no. 397, NS2023-228, pp. 329--335, 2024年2月.
+<br><br>
+
+* 八木 洸太, 磯部 克貴, **近藤 大嗣**, 戸出 英樹, ''DNS-Based Authentication of Named Entities導入におけるWebパフォーマンスへの影響,'' 	信学技報, vol. 123, no. 397, NS2023-231, pp. 348--354, 2024年2月.
+<br><br>
+
 * 赤川 宙, 黒川 紫温, **近藤 大嗣**, 戸出 英樹, ''Multi-access Edge Computing環境における遅延保証に向けたRound Trip Time測定,'' 電子情報通信学会総合大会, B-6-10, 2023年3月.
 <br><br>
 

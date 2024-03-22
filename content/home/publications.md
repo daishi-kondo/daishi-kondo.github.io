@@ -36,6 +36,9 @@ design:
   columns: '2'
 ---
 ### <u>International Journal Papers</u>
+* **D. Kondo**, T. Ansquer, Y. Tanigawa, and H. Tode, ''Resource Breadcrumbs: Discovering Edge Computing Resources over Named Data Networking,'' *IEEE Transactions on Network and Service Management*. (Accepted)
+<br><br>
+
 * K. Hasegawa, **D. Kondo**, M. Osumi, and H. Tode, ''Collaborative Defense Framework Using FQDN-Based Allowlist Filter Against DNS Water Torture Attack,'' *IEEE Transactions on Network and Service Management*, vol. 20, no. 4, pp. 3968--3983, Dec. 2023.
 <br><br>
 
@@ -60,10 +63,10 @@ design:
 * 浅見 徹, 栗原 淳, **近藤 大嗣**, 戸出 英樹, ''多様なビジネスの収容基盤としてのネットワークとその課題――著作権保護や消費税徴収等に関わる技術的・法的課題――,'' 電子情報通信学会誌, vol. 103, no. 2, pp. 155--161, 2020年2月.
 
 ### <u>International Conference Papers</u>
-* T. Ueda, **D. Kondo**, Y. Tanigawa, and H. Tode, ''Computing Node Selection Method Based on Proactive Grasping of Computational Performance in End Cloud Environments,'' in *Proc. 2023 IEEE 20th Consumer Communications ¥& Networking Conference (CCNC)*, pp. 672--673, 2023.
+* T. Ueda, **D. Kondo**, Y. Tanigawa, and H. Tode, ''Computing Node Selection Method Based on Proactive Grasping of Computational Performance in End Cloud Environments,'' in *Proc. 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC)*, pp. 672--673, 2023.
 <br><br>
 
-* K. Yoshitomi, Y. Tanigawa, **D. Kondo**, and H. Tode, ''Strictly Prioritized Multihop Transmission of High-Priority Data Composed of Multiple Frames in Wireless Sensor Networks,'' in *Proc. 2023 IEEE 20th Consumer Communications ¥& Networking Conference (CCNC)*, pp. 893--894, 2023.
+* K. Yoshitomi, Y. Tanigawa, **D. Kondo**, and H. Tode, ''Strictly Prioritized Multihop Transmission of High-Priority Data Composed of Multiple Frames in Wireless Sensor Networks,'' in *Proc. 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC)*, pp. 893--894, 2023.
 <br><br>
 
 * K. Isobe, **D. Kondo**, and H. Tode, ''A First Look at the Name Resolution Latency on Handshake,'' in *Proc. the 22nd ACM Internet Measurement Conference (IMC '22)*, pp. 756--757, 2022.

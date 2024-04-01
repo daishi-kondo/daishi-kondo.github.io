@@ -117,7 +117,7 @@ design:
 * 大隅 雅斗, **近藤 大嗣**, 戸出 英樹, ''5G MEC環境に展開された遠隔型自動運転システムを対象とするDDoS攻撃評価,'' 信学技報, vol. 123, no. 397, NS2023-228, pp. 329--335, 2024年2月.
 <br><br>
 
-* 八木 洸太, 磯部 克貴, **近藤 大嗣**, 戸出 英樹, ''DNS-Based Authentication of Named Entities導入におけるWebパフォーマンスへの影響,'' 	信学技報, vol. 123, no. 397, NS2023-231, pp. 348--354, 2024年2月.
+* 八木 洸太, 磯部 克貴, **近藤 大嗣**, 戸出 英樹, ''DNS-Based Authentication of Named Entities導入におけるWebパフォーマンスへの影響,'' 信学技報, vol. 123, no. 397, NS2023-231, pp. 348--354, 2024年2月.
 <br><br>
 
 * 赤川 宙, 黒川 紫温, **近藤 大嗣**, 戸出 英樹, ''Multi-access Edge Computing環境における遅延保証に向けたRound Trip Time測定,'' 電子情報通信学会総合大会, B-6-10, 2023年3月.

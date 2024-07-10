@@ -36,7 +36,7 @@ design:
   columns: '2'
 ---
 ### <u>International Journal Papers</u>
-* **D. Kondo**, T. Ansquer, Y. Tanigawa, and H. Tode, ''Resource Breadcrumbs: Discovering Edge Computing Resources over Named Data Networking,'' *IEEE Transactions on Network and Service Management*. (Accepted)
+* **D. Kondo**, T. Ansquer, Y. Tanigawa, and H. Tode, ''Resource Breadcrumbs: Discovering Edge Computing Resources Over Named Data Networking,'' *IEEE Transactions on Network and Service Management*. (Accepted)
 <br><br>
 
 * K. Hasegawa, **D. Kondo**, M. Osumi, and H. Tode, ''Collaborative Defense Framework Using FQDN-Based Allowlist Filter Against DNS Water Torture Attack,'' *IEEE Transactions on Network and Service Management*, vol. 20, no. 4, pp. 3968--3983, Dec. 2023.
@@ -102,6 +102,9 @@ design:
 * **D. Kondo**, A. Fujimoto, Y. Hirota, H. Tode, and K. Murakami, ''P2P Live Streaming Distribution System with Fast Content Switching and Category-Based Recommendation Function,'' in *Proc. 2012 Seventh International Conference on P2P, Parallel, Grid, Cloud and Internet Computing*, pp. 345--350, 2012.
 
 ### <u>国内会議</u>
+* **近藤 大嗣**, 澁谷 遊野, 山口 利恵, 石原 知洋, 関谷 勇司, 中田 登志之, 浅見 徹, ''Googleによるメール送信者のガイドライン設定が日本国内のメールセキュリティに与える影響の調査,'' DICOMO 2024 シンポジウム, 2024年6月.
+<br><br>
+
 * 山内 大輝, **近藤 大嗣**, 戸出 英樹, ''エッジ環境におけるロードバランシングアルゴリズムの検討,'' 電子情報通信学会総合大会, B-6-70, 2024年3月.
 <br><br>
 

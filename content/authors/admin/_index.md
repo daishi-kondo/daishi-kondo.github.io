@@ -72,4 +72,4 @@ email: ''
 highlight_name: true
 ---
 
-Daishi Kondo is an assistant professor at Osaka Metropolitan University.
+Daishi Kondo is an associate professor at Osaka Metropolitan University.

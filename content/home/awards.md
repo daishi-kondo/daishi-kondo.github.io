@@ -11,6 +11,7 @@ weight: 30
 title: Awards
 subtitle: ''
 ---
+- 6/28/2024 優秀プレゼンテーション賞（DICOMO 2024 シンポジウム）
 - 11/15/2023 特選論文（情報処理学会）
 - 10/24/2022 CSS2022優秀論文賞（コンピュータセキュリティシンポジウム2022）
 - 12/17/2020 ITU AI/ML in 5G Challenge (Regional round), Judges' Prize (ITU)

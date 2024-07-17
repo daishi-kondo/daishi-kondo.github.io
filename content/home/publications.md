@@ -63,6 +63,9 @@ design:
 * 浅見 徹, 栗原 淳, **近藤 大嗣**, 戸出 英樹, ''多様なビジネスの収容基盤としてのネットワークとその課題――著作権保護や消費税徴収等に関わる技術的・法的課題――,'' 電子情報通信学会誌, vol. 103, no. 2, pp. 155--161, 2020年2月.
 
 ### <u>International Conference Papers</u>
+* K. Isobe, J. -P. Eisenbarth, **D. Kondo**, T. Cholez, and H. Tode, ''A Deeper Grasp of Handshake: A Thorough Analysis of Blockchain-based DNS Records,'' in *Proc. 2024 6th Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS)*, 2024. (Accepted)
+<br><br>
+
 * T. Ueda, **D. Kondo**, Y. Tanigawa, and H. Tode, ''Computing Node Selection Method Based on Proactive Grasping of Computational Performance in End Cloud Environments,'' in *Proc. 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC)*, pp. 672--673, 2023.
 <br><br>
 

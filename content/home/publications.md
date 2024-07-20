@@ -36,7 +36,7 @@ design:
   columns: '2'
 ---
 ### <u>International Journal Papers</u>
-* **D. Kondo**, T. Ansquer, Y. Tanigawa, and H. Tode, ''Resource Breadcrumbs: Discovering Edge Computing Resources Over Named Data Networking,'' *IEEE Transactions on Network and Service Management*. (Accepted)
+* **D. Kondo**, T. Ansquer, Y. Tanigawa, and H. Tode, ''Resource Breadcrumbs: Discovering Edge Computing Resources Over Named Data Networking,'' *IEEE Transactions on Network and Service Management*, vol. 21, no. 3, pp. 3305--3316, Jun. 2024.
 <br><br>
 
 * K. Hasegawa, **D. Kondo**, M. Osumi, and H. Tode, ''Collaborative Defense Framework Using FQDN-Based Allowlist Filter Against DNS Water Torture Attack,'' *IEEE Transactions on Network and Service Management*, vol. 20, no. 4, pp. 3968--3983, Dec. 2023.

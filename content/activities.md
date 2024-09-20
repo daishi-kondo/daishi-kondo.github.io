@@ -1,6 +1,6 @@
 ---
 title: 'Activities'
-date: 2024-09-02
+date: 2024-09-20
 
 reading_time: false
 share: false
@@ -36,5 +36,6 @@ pager: false
 		- IEEE ICC
 		- IFIP Networking
 		- IEEE ICCE
+		- CANDAR
 	- 国内会議
 		- コンピュータセキュリティシンポジウム

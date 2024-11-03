@@ -10,6 +10,7 @@ pager: false
 	- IEEE ICCE 2025
 - Program Committee Member
 	- IEEE ICCT-Pacific 2025
+	- IEEE ICC 2025
 	- IEEE ICC 2024
 	- MSN 2022
 	- MSN 2021

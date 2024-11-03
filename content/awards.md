@@ -1,6 +1,6 @@
 ---
 title: 'Awards'
-date: 2024-09-02
+date: 2024-11-03
 
 reading_time: false
 share: false

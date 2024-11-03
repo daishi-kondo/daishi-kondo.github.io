@@ -1,6 +1,6 @@
 ---
 title: 'Activities'
-date: 2024-09-20
+date: 2024-10-19
 
 reading_time: false
 share: false

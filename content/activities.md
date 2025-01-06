@@ -30,6 +30,7 @@ pager: false
 		- IEEE Networking Letters
 		- IEICE Transactions on Communications
 		- IEICE Communications Express
+		- Journal of Network and Systems Management
 	- 国内ジャーナル
 		- 電子情報通信学会和文論文誌
 	- 国際会議

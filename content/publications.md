@@ -1,6 +1,6 @@
 ---
 title: 'Publications'
-date: 2024-09-02
+date: 2025-01-06
 
 reading_time: false
 share: false
@@ -28,9 +28,9 @@ pager: false
 * 浅見 徹, 栗原 淳, **近藤 大嗣**, 戸出 英樹, ''多様なビジネスの収容基盤としてのネットワークとその課題――著作権保護や消費税徴収等に関わる技術的・法的課題――,'' 電子情報通信学会誌, vol. 103, no. 2, pp. 155--161, 2020年2月.
 
 ### <u>International Conference Papers</u>
-* K. Yagi, K. Isobe, **D. Kondo**, and H. Tode, ''Impact of DANE on Webpage Load Time,'' in *Proc. the 20th International Conference on Network and Service Management (CNSM)*, 2024. (Accepted)
+* K. Yagi, K. Isobe, **D. Kondo**, and H. Tode, ''Impact of DANE on Webpage Load Time,'' in *Proc. 2024 20th International Conference on Network and Service Management (CNSM)*, 2024, pp. 1--9.
 
-* K. Isobe, J. -P. Eisenbarth, **D. Kondo**, T. Cholez, and H. Tode, ''A Deeper Grasp of Handshake: A Thorough Analysis of Blockchain-based DNS Records,'' in *Proc. 2024 6th Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS)*, 2024. (Accepted)
+* K. Isobe, J. -P. Eisenbarth, **D. Kondo**, T. Cholez, and H. Tode, ''A Deeper Grasp of Handshake: A Thorough Analysis of Blockchain-based DNS Records,'' in *Proc. 2024 6th Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS)*, 2024, pp. 1--10.
 
 * T. Ueda, **D. Kondo**, Y. Tanigawa, and H. Tode, ''Computing Node Selection Method Based on Proactive Grasping of Computational Performance in End Cloud Environments,'' in *Proc. 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC)*, 2023, pp. 672--673.
 

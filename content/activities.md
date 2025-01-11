@@ -1,6 +1,6 @@
 ---
 title: 'Activities'
-date: 2024-10-19
+date: 2025-01-11
 
 reading_time: false
 share: false
@@ -25,6 +25,7 @@ pager: false
 - Reviewer
 	- 国際ジャーナル
 		- Computer Communications
+		- Computer Networks
 		- IEEE Access
 		- IEEE Transactions on Network and Service Management
 		- IEEE Networking Letters

@@ -1,6 +1,6 @@
 ---
 title: 'Activities'
-date: 2025-01-11
+date: 2025-01-21
 
 reading_time: false
 share: false
@@ -8,6 +8,8 @@ pager: false
 ---
 - Technical Program Committee Chair
 	- IEEE ICCE 2025
+- Workshop Chair
+	- D-NetComp 2025
 - Program Committee Member
 	- IEEE ICCT-Pacific 2025
 	- IEEE ICC 2025
@@ -28,6 +30,7 @@ pager: false
 		- Computer Networks
 		- IEEE Access
 		- IEEE Transactions on Network and Service Management
+		- IEEE Transactions on Parallel and Distributed Systems
 		- IEEE Networking Letters
 		- IEICE Transactions on Communications
 		- IEICE Communications Express

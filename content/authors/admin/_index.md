@@ -24,10 +24,10 @@ role: Associate Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Osaka Metropolitan University
-    url: https://www.omu.ac.jp/en/
-  - name: Intelligent Networking Research Group
-    url: https://tode-lab.github.io/
+  - name: The University of Tokyo
+    url: https://www.u-tokyo.ac.jp/en/
+  - name: Information Technology Center
+    url: https://www.itc.u-tokyo.ac.jp/en/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -187,4 +187,4 @@ education:
 
 ## About Me
 
-Daishi Kondo is an associate professor at Osaka Metropolitan University.
+Daishi Kondo is an associate professor at the University of Tokyo.

@@ -59,6 +59,10 @@ pager: false
 * **D. Kondo**, A. Fujimoto, Y. Hirota, H. Tode, and K. Murakami, ''P2P Live Streaming Distribution System with Fast Content Switching and Category-Based Recommendation Function,'' in *Proc. 2012 Seventh International Conference on P2P, Parallel, Grid, Cloud and Internet Computing*, 2012, pp. 345--350.
 
 ### <u>国内会議</u>
+* 副田 海斗, **近藤 大嗣**, 谷川 陽祐, 戸出 英樹, ''DTN環境における孤立ノードを考慮したデータ配信方法の検討,'' 電子情報通信学会総合大会, B-6-57, 2025年3月.
+
+* 赤川 宙, Nicolas Schnepf, **近藤 大嗣**, 戸出 英樹, ''Multi-access Edge Computing環境におけるEnd-to-End遅延保証のためのMEC hostと通信経路の割り当て法,'' 信学技報, vol. 124, no. 419, NS2024-261, pp. 384--389, 2025年3月.
+
 * **近藤 大嗣**, 澁谷 遊野, 山口 利恵, 石原 知洋, 関谷 勇司, 中田 登志之, 浅見 徹, ''Googleによるメール送信者のガイドライン設定が日本国内のメールセキュリティに与える影響の調査,'' DICOMO 2024 シンポジウム, 2024年6月.
 
 * 山内 大輝, **近藤 大嗣**, 戸出 英樹, ''エッジ環境におけるロードバランシングアルゴリズムの検討,'' 電子情報通信学会総合大会, B-6-70, 2024年3月.

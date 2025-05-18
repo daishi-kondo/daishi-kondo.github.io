@@ -56,8 +56,8 @@ interests:
   - Peer-to-Peer (P2P) networking
 
 education:
-  - area: Ph.D. in computer science
-    institution: The University of Lorraine, Nancy, France
+  - area: Doctorat en informatique
+    institution: Université de Lorraine, Nancy, France
     date_start: 2015-09-01
     date_end: 2018-12-31
     #summary: |

@@ -1,11 +1,14 @@
 ---
 title: 'Projects'
-date: 2024-09-02
+date: 2025-05-21
 
 reading_time: false
 share: false
 pager: false
 ---
+- [レイテンシ保証を実現するエッジコンピューティング基盤に関する研究](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K00372/)
+  - 研究種目: 基盤研究 (C)（一般）（研究代表者）
+  - 研究期間 (年度): 2025-02-28 - 2029-03-31
 - [Alleviation of Generalization Problems in AI-based Cyber-Deception and Network Anomaly Detection (CyberGenAI)](https://team.inria.fr/resist/cybergenai-associate-team/)
   - Teams: Inria, DFKI, and Osaka Metropolitan University (PI)
   - Project period: FY2022 - FY2024

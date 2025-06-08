@@ -1,6 +1,6 @@
 ---
 title: 'Publications'
-date: 2025-05-20
+date: 2025-06-08
 
 reading_time: false
 share: false

@@ -1,6 +1,6 @@
 ---
 title: 'Publications'
-date: 2025-06-08
+date: 2025-06-23
 
 reading_time: false
 share: false
@@ -28,6 +28,8 @@ pager: false
 * 浅見 徹, 栗原 淳, **近藤 大嗣**, 戸出 英樹, ''多様なビジネスの収容基盤としてのネットワークとその課題――著作権保護や消費税徴収等に関わる技術的・法的課題――,'' 電子情報通信学会誌, vol. 103, no. 2, pp. 155--161, 2020年2月.
 
 ### <u>International Conference Papers</u>
+* O. Anser, J. François, I. Chrisment, and **D. Kondo**, ''TATA: Benchmark NIDS Test Sets Assessment and Targeted Augmentation,'' in *Proc. 30th European Symposium on Research in Computer Security*, 2025. (Accepted)
+
 * **D. Kondo**, Y. Shibuya, R. S. Yamaguchi, T. Ishihara, Y. Sekiya, T. Nakata, and T. Asami, ''Who Did Not Implement Email Security Measures After Google's New Email Sender Guidelines?: A Large-Scale Measurement Study,'' in *Proc. 2025 9th Network Traffic Measurement and Analysis Conference (TMA)*, 2025. (Accepted)
 
 * K. Yagi, K. Isobe, **D. Kondo**, and H. Tode, ''Impact of DANE on Webpage Load Time,'' in *Proc. 2024 20th International Conference on Network and Service Management (CNSM)*, 2024, pp. 1--9.

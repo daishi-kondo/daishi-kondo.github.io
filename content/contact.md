@@ -1,9 +1,9 @@
 ---
 title: 'Contact'
-date: 2025-04-01
+date: 2025-09-05
 
 reading_time: false
 share: false
 pager: false
 ---
-- Information Technology Center (Kashiwa II) 3F T307, 6-2-3 Kashiwanoha, Kashiwa, Chiba 277-8582, Japan
+- Information Technology Center (Kashiwa II) 3F T307, 6-2-3 Kashiwanoha, Kashiwa-shi, Chiba 277-0882, Japan

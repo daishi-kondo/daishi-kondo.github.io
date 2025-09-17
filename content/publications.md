@@ -1,6 +1,6 @@
 ---
 title: 'Publications'
-date: 2025-07-16
+date: 2025-09-17
 
 reading_time: false
 share: false
@@ -28,7 +28,7 @@ pager: false
 * 浅見 徹, 栗原 淳, **近藤 大嗣**, 戸出 英樹, ''多様なビジネスの収容基盤としてのネットワークとその課題――著作権保護や消費税徴収等に関わる技術的・法的課題――,'' 電子情報通信学会誌, vol. 103, no. 2, pp. 155--161, 2020年2月.
 
 ### <u>International Conference Papers</u>
-* T. Angeli, F. Beck, **D. Kondo**, I. Chrisment, H. Tode, and H. D. Schotten, ''Demo: SweetsPot: A Distributed Honeypot Federation Platform,'' in *Proc. 2025 IEEE 50th Conference on Local Computer Networks (LCN)*, 2025. (Accepted)
+* T. Angeli, F. Beck, **D. Kondo**, I. Chrisment, H. Tode, and H. D. Schotten, ''Demo: SweetsPot: A Distributed Honeypot Federation Platform,'' in *Proc. 2025 IEEE 50th Conference on Local Computer Networks (LCN)*, 2025, pp. 1--4.
 
 * O. Anser, J. François, I. Chrisment, and **D. Kondo**, ''TATA: Benchmark NIDS Test Sets Assessment and Targeted Augmentation,'' in *Proc. 30th European Symposium on Research in Computer Security*, 2025. (Accepted)
 

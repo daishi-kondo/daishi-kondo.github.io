@@ -1,6 +1,6 @@
 ---
 title: 'Publications'
-date: 2025-09-17
+date: 2025-09-19
 
 reading_time: false
 share: false
@@ -32,7 +32,7 @@ pager: false
 
 * O. Anser, J. François, I. Chrisment, and **D. Kondo**, ''TATA: Benchmark NIDS Test Sets Assessment and Targeted Augmentation,'' in *Proc. 30th European Symposium on Research in Computer Security*, 2025. (Accepted)
 
-* **D. Kondo**, Y. Shibuya, R. S. Yamaguchi, T. Ishihara, Y. Sekiya, T. Nakata, and T. Asami, ''Who Did Not Implement Email Security Measures After Google's New Email Sender Guidelines?: A Large-Scale Measurement Study,'' in *Proc. 2025 9th Network Traffic Measurement and Analysis Conference (TMA)*, 2025. (Accepted)
+* **D. Kondo**, Y. Shibuya, R. S. Yamaguchi, T. Ishihara, Y. Sekiya, T. Nakata, and T. Asami, ''Who Did Not Implement Email Security Measures After Google's New Email Sender Guidelines?: A Large-Scale Measurement Study,'' in *Proc. 2025 9th Network Traffic Measurement and Analysis Conference (TMA)*, 2025, pp. 1--10.
 
 * K. Yagi, K. Isobe, **D. Kondo**, and H. Tode, ''Impact of DANE on Webpage Load Time,'' in *Proc. 2024 20th International Conference on Network and Service Management (CNSM)*, 2024, pp. 1--9.
 

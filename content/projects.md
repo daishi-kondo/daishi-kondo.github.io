@@ -1,6 +1,6 @@
 ---
 title: 'Projects'
-date: 2025-05-21
+date: 2025-12-08
 
 reading_time: false
 share: false

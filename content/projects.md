@@ -6,6 +6,9 @@ reading_time: false
 share: false
 pager: false
 ---
+- [Deception Technologies for Honeypots with Intelligence and Adaptability (DeceptIA)](https://deceptia.gitlabpages.inria.fr/web/index.html)
+  - Teams: Inria, DFKI, The University of Tokyo (PI), and Osaka Metropolitan University
+  - Project period: FY2025 - FY2027
 - [レイテンシ保証を実現するエッジコンピューティング基盤に関する研究](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K00372/)
   - 研究種目: 基盤研究 (C)（一般）（研究代表者）
   - 研究期間 (年度): 2025-02-28 - 2029-03-31

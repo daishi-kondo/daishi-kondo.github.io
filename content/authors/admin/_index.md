@@ -28,6 +28,8 @@ organizations:
     url: https://www.u-tokyo.ac.jp/en/
   - name: Information Technology Center
     url: https://www.itc.u-tokyo.ac.jp/en/
+  - name: Graduate School of Engineering
+    url: https://www.eeis.t.u-tokyo.ac.jp/en/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.

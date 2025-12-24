@@ -1,12 +1,12 @@
 ---
 title: 'Awards'
-date: 2025-04-26
+date: 2025-12-24
 
 reading_time: false
 share: false
 pager: false
 ---
-- 2025 令和6年度東京大学卓越研究員（公募型）（東京大学）
+- [2025 令和6年度東京大学卓越研究員（公募型）（東京大学）](https://www.u-tokyo.ac.jp/excellent-researchers/)
 - 9/20/2024 優秀論文賞（DICOMO 2024 シンポジウム）
 - 6/28/2024 優秀プレゼンテーション賞（DICOMO 2024 シンポジウム）
 - 11/15/2023 特選論文（情報処理学会）

@@ -78,7 +78,7 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: B.S. in engineering
+  - area: B.E.
     institution: Osaka University, Osaka, Japan
     date_start: 2008-04-01
     date_end: 2013-03-31

@@ -59,7 +59,7 @@ interests:
 
 education:
   - area: Doctorat en informatique
-    institution: Université de Lorraine, Nancy, France
+    institution: Université de Lorraine, France
     date_start: 2015-09-01
     date_end: 2018-12-31
     #summary: |
@@ -68,7 +68,7 @@ education:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
   - area: M.A.S. in interdisciplinary information studies
-    institution: The University of Tokyo, Tokyo, Japan
+    institution: The University of Tokyo, Japan
     date_start: 2013-04-01
     date_end: 2015-03-31
     #summary: |
@@ -79,7 +79,7 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: B.E.
-    institution: Osaka University, Osaka, Japan
+    institution: Osaka University, Japan
     date_start: 2008-04-01
     date_end: 2013-03-31
     #summary: |

@@ -1,11 +1,14 @@
 ---
 title: 'Projects'
-date: 2025-12-08
+date: 2026-03-27
 
 reading_time: false
 share: false
 pager: false
 ---
+- [DNSキャッシュポイズニング対抗技術の実態と有効性に関する包括的調査](https://www.taf.or.jp/files/items/2256/File/%E7%A0%94%E7%A9%B6%E8%AA%BF%E6%9F%BB%E5%8A%A9%E6%88%90%E6%8E%A1%E6%8A%9E%E5%AE%9F%E7%B8%BE2025%E5%B9%B4%E5%BA%A6.pdf)
+  - 研究種目: 電気通信普及財団研究調査助成（研究代表者）
+  - 研究期間 (年度): 2026年度 - 2027年度
 - [Deception Technologies for Honeypots with Intelligence and Adaptability (DeceptIA)](https://deceptia.gitlabpages.inria.fr/web/index.html)
   - Teams: Inria, DFKI, The University of Tokyo (PI), and Osaka Metropolitan University
   - Project period: FY2025 - FY2027

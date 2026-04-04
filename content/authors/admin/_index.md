@@ -30,6 +30,8 @@ organizations:
     url: https://www.itc.u-tokyo.ac.jp/en/
   - name: Graduate School of Engineering
     url: https://www.eeis.t.u-tokyo.ac.jp/en/
+  - name: Kondo Lab
+    url: https://dkondo-lab.github.io/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.

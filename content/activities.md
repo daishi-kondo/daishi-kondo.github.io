@@ -1,6 +1,6 @@
 ---
 title: 'Activities'
-date: 2026-03-27
+date: 2026-05-11
 
 reading_time: false
 share: false
@@ -11,6 +11,7 @@ pager: false
 - Workshop Chair
 	- D-NetComp 2025
 - Program Committee Member
+	- TrustAICyberSec 2026
 	- IEEE ICCT-Pacific 2025
 	- IEEE ICC 2025
 	- IEEE ICC 2024
@@ -18,7 +19,7 @@ pager: false
 	- MSN 2021
 	- MSN 2020
 	- IEEE/IFIP DISSECT 2020
-- Guest editor
+- Guest Editor
 	- International Journal of Network Management (Data-centric Network Management)
 - 委員
 	- 第22回情報科学技術フォーラム（FIT2023）

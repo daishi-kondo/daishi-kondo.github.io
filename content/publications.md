@@ -65,6 +65,8 @@ pager: false
 * **D. Kondo**, A. Fujimoto, Y. Hirota, H. Tode, and K. Murakami, ''P2P Live Streaming Distribution System with Fast Content Switching and Category-Based Recommendation Function,'' in *Proc. 2012 Seventh International Conference on P2P, Parallel, Grid, Cloud and Internet Computing*, 2012, pp. 345--350.
 
 ### <u>国内会議</u>
+* 越澤　健, **近藤 大嗣**, 戸出 英樹, ''DNSリゾルバのDNSキャッシュポイズニング対抗策普及状況の調査,'' 信学技報, vol. 126, no. 21, NS2026-30, pp. 66--71, 2026年5月.
+
 * 大西 勘太郎, **近藤 大嗣**, 戸出 英樹, ''Graph Neural NetworkによるSSHハニーポット上の攻撃者行動分析,'' 信学技報, vol. 125, no. 385, NS2025-297, pp. 450--455, 2026年3月.
 
 * 明石 邦夫, **近藤 大嗣**, ''Information-Centric Networking on SRv6の実現に向けた一検討,'' 電子情報通信学会ICN研究会, 2025年12月.

@@ -1,12 +1,14 @@
 ---
 title: 'Publications'
-date: 2026-03-27
+date: 2026-06-24
 
 reading_time: false
 share: false
 pager: false
 ---
 ### <u>International Journal Papers</u>
+* **D. Kondo**, Y. Shibuya, R. S. Yamaguchi, T. Ishihara, Y. Sekiya, T. Nakata, and T. Asami, ''Assessing the Adoption of Email Security Measures After Google's New Sender Guidelines,'' *IEEE Transactions on Network and Service Management*. (Accepted)
+
 * **D. Kondo**, T. Ansquer, Y. Tanigawa, and H. Tode, ''Resource Breadcrumbs: Discovering Edge Computing Resources Over Named Data Networking,'' *IEEE Transactions on Network and Service Management*, vol. 21, no. 3, pp. 3305--3316, Jun. 2024.
 
 * K. Hasegawa, **D. Kondo**, M. Osumi, and H. Tode, ''Collaborative Defense Framework Using FQDN-Based Allowlist Filter Against DNS Water Torture Attack,'' *IEEE Transactions on Network and Service Management*, vol. 20, no. 4, pp. 3968--3983, Dec. 2023.

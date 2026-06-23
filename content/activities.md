@@ -1,6 +1,6 @@
 ---
 title: 'Activities'
-date: 2026-06-05
+date: 2026-06-21
 
 reading_time: false
 share: false
@@ -47,5 +47,6 @@ pager: false
 		- IFIP Networking
 		- IEEE ICCE
 		- CANDAR
+		- APNOMS
 	- 国内会議
 		- コンピュータセキュリティシンポジウム

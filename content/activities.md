@@ -1,6 +1,6 @@
 ---
 title: 'Activities'
-date: 2026-06-21
+date: 2026-08-17
 
 reading_time: false
 share: false
@@ -11,6 +11,7 @@ pager: false
 - Workshop Chair
 	- D-NetComp 2025
 - Program Committee Member
+	- MAGIC 2026
 	- TrustAICyberSec 2026
 	- IEEE ICCT-Pacific 2025
 	- IEEE ICC 2025

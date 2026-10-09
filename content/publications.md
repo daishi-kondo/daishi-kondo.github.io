@@ -1,12 +1,14 @@
 ---
 title: 'Publications'
-date: 2026-06-24
+date: 2026-10-09
 
 reading_time: false
 share: false
 pager: false
 ---
 ### <u>International Journal Papers</u>
+* Y. Shibuya, **D. Kondo**, R. S. Yamaguchi, T. Ishihara, Y. Sekiya, T. Nakata, and T. Asami, ''We Want to Quit but Can't: Understanding Organizational Flawed Decision Makings on Email Security Practices,'' *Digital Threats: Research and Practice*, 2026. (Accepted)
+
 * **D. Kondo**, Y. Shibuya, R. S. Yamaguchi, T. Ishihara, Y. Sekiya, T. Nakata, and T. Asami, ''Assessing the Adoption of Email Security Measures After Google's New Sender Guidelines,'' *IEEE Transactions on Network and Service Management*, vol. 23, pp. 5722--5737, 2026.
 
 * **D. Kondo**, T. Ansquer, Y. Tanigawa, and H. Tode, ''Resource Breadcrumbs: Discovering Edge Computing Resources Over Named Data Networking,'' *IEEE Transactions on Network and Service Management*, vol. 21, no. 3, pp. 3305--3316, Jun. 2024.
